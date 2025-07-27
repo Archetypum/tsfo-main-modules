@@ -1,7 +1,12 @@
 [
-  {
-    "name": "tum-bash",
-    "url": "https://github.com/Archetypum/tum-bash/archive/refs/tags/v0.0.1-stable.tar.gz",
-    "version": "0.0.1"
-  }
+    {
+        "name": "tum-bash",
+        "url": "https://github.com/Archetypum/tum-bash/archive/refs/tags/v0.0.1-stable.tar.gz",
+        "version": "0.0.1"
+    },
+    {
+        "name": "prototype-netbsd",
+        "url": "https://github.com/Archetypum/PrototypeNetBSD/archive/refs/tags/v0.0.5-stable.tar.gz",
+        "version": "0.0.5"
+    }
 ]
